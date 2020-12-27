@@ -2,22 +2,16 @@ body {
 	width: 100%;
 	max-width: 1024px;
 	margin: 0 auto;
-	background-color: black;
+	background-color: #F0FFFF;
 	font-size: 85%;
 }
 
 header {
 	background-color: #ddd;
 	font-size: 1.6em;
-	
-}
-
-header {
-	padding: 1.875em 0;
-}
-
-header h1 {
 	text-align: center;
+	padding: 1.875em 0;
+	
 }
 
 h1, h2, h3 {
@@ -40,36 +34,42 @@ section {
 	margin-top: 5;
 	background-color: #0000FF;
 	box-shadow: 10px 20px;
+	text-align: center;
 }
 
 #robertmathis {
 	margin-top: 0;
 	background-color: #0000FF;
 	box-shadow: 10px 20px;
+	text-align: center;
 }
 
 #marvinharrison {
 	margin-top: 0;
 	background-color: #0000FF;
 	box-shadow: 10px 20px;
+	text-align: center;
 }
 
 #andrewluck {
 	margin-top: 0;
 	background-color: #0000FF;
 	box-shadow: 10px 20px;
+	text-align: center;
 }
 
 #reggiemiller {
 	margin-top: 0;
 	background-color: #DAA520;
 	box-shadow: 10px 20px;
+	text-align: center;
 }
 
 #sachintendulkar {
 	margin-bottom: 5;
 	background-color: #1E90FF;
 	box-shadow: 10px 20px;
+	text-align: center;
 }
 
 nav ul {
