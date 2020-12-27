@@ -31,7 +31,7 @@ section {
 #peytonmanning {
 	margin-top: 5;
 	background-color: #0000FF;
-	box-shadow: 10px 20px;
+	box-shadow: 10px 20px black;
 	text-align: center;
 	color: white;
 }
@@ -102,6 +102,7 @@ figcaption {
 footer {
 	text-align: center;
 	padding: 3em;
+	font-style: italic;
 }
 
 footer p {
@@ -109,7 +110,8 @@ footer p {
 }
 
 img {
-	width: 100%;
+	width: 90%;
+	height: 90%
 	max-width: 100%;
 }
 
