@@ -3,7 +3,7 @@ body {
 	max-width: 1024px;
 	margin: 0 auto;
 	background-color: black;
-	font-size: 62.5%;
+	font-size: 85%;
 }
 
 header {
@@ -39,37 +39,37 @@ section {
 #peytonmanning {
 	margin-top: 5;
 	background-color: #0000FF;
-	box-shadow: 5px 10px;
+	box-shadow: 10px 20px;
 }
 
 #robertmathis {
 	margin-top: 0;
 	background-color: #0000FF;
-	box-shadow: 5px 10px;
+	box-shadow: 10px 20px;
 }
 
 #marvinharrison {
 	margin-top: 0;
 	background-color: #0000FF;
-	box-shadow: 5px 10px;
+	box-shadow: 10px 20px;
 }
 
 #andrewluck {
 	margin-top: 0;
 	background-color: #0000FF;
-	box-shadow: 5px 10px;
+	box-shadow: 10px 20px;
 }
 
 #reggiemiller {
 	margin-top: 0;
 	background-color: #DAA520;
-	box-shadow: 5px 10px;
+	box-shadow: 10px 20px;
 }
 
 #sachintendulkar {
 	margin-bottom: 5;
 	background-color: #1E90FF;
-	box-shadow: 5px 10px;
+	box-shadow: 10px 20px;
 }
 
 nav ul {
