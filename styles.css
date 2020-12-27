@@ -34,6 +34,8 @@ section {
 	box-shadow: 10px 20px black;
 	text-align: center;
 	color: white;
+	border: 2px solid white;
+        border-radius: 5px;
 }
 
 #robertmathis {
@@ -42,6 +44,8 @@ section {
 	box-shadow: 10px 20px;
 	text-align: center;
 	color: white;
+        border: 2px solid white;
+        border-radius: 5px;
 }
 
 #marvinharrison {
@@ -50,6 +54,8 @@ section {
 	box-shadow: 10px 20px;
 	text-align: center;
 	color: white;
+	border: 2px solid white;
+        border-radius: 5px;
 }
 
 #andrewluck {
@@ -58,6 +64,8 @@ section {
 	box-shadow: 10px 20px;
 	text-align: center;
 	color: white;
+	border: 2px solid white;
+        border-radius: 5px;
 }
 
 #reggiemiller {
@@ -65,6 +73,8 @@ section {
 	background-color: #DAA520;
 	box-shadow: 10px 20px;
 	text-align: center;
+	border: 2px solid black;
+        border-radius: 5px;
 }
 
 #sachintendulkar {
@@ -72,6 +82,8 @@ section {
 	background-color: #1E90FF;
 	box-shadow: 10px 20px;
 	text-align: center;
+	border: 2px solid black;
+        border-radius: 5px;
 }
 
 nav ul {
