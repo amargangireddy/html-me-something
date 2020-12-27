@@ -38,11 +38,12 @@ section {
 }
 
 #peytonmanning {
-	margin-top: 0;
+	margin-top: 5;
+	background-color: blue;
 }
 
 #sachintendulkar {
-	margin-bottom: 0;
+	margin-bottom: 5;
 }
 
 nav ul {
