@@ -7,15 +7,13 @@ body {
 }
 
 header {
-	background-color: #ddd;
+	background-color: #FAEBD7;
 	font-size: 1.6em;
 	text-align: center;
 	padding: 1.875em 0;
-	
-}
-
-h1, h2, h3 {
-	margin: 0;
+	font-style: italic;
+	border: 2px solid black;
+        border-radius: 5px;
 }
 
 h1 {
@@ -35,6 +33,7 @@ section {
 	background-color: #0000FF;
 	box-shadow: 10px 20px;
 	text-align: center;
+	color: white;
 }
 
 #robertmathis {
@@ -42,6 +41,7 @@ section {
 	background-color: #0000FF;
 	box-shadow: 10px 20px;
 	text-align: center;
+	color: white;
 }
 
 #marvinharrison {
@@ -49,6 +49,7 @@ section {
 	background-color: #0000FF;
 	box-shadow: 10px 20px;
 	text-align: center;
+	color: white;
 }
 
 #andrewluck {
@@ -56,6 +57,7 @@ section {
 	background-color: #0000FF;
 	box-shadow: 10px 20px;
 	text-align: center;
+	color: white;
 }
 
 #reggiemiller {
