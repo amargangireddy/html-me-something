@@ -2,7 +2,7 @@ body {
 	width: 100%;
 	max-width: 1024px;
 	margin: 0 auto;
-	background-color: #F0FFFF;
+	background-color: #2F4F4F;
 	font-size: 85%;
 }
 
@@ -12,8 +12,8 @@ header {
 	text-align: center;
 	padding: 1.875em 0;
 	font-style: italic;
-	border: 2px solid black;
-        border-radius: 5px;
+	border: 4px solid black;
+        border-radius: 7px;
 }
 
 h1 {
@@ -31,59 +31,59 @@ section {
 #peytonmanning {
 	margin-top: 5;
 	background-color: #0000FF;
-	box-shadow: 10px 20px black;
+	box-shadow: 10px 20px antiquewhite;
 	text-align: center;
 	color: white;
-	border: 2px solid white;
-        border-radius: 5px;
+	border: 4px solid white;
+        border-radius: 7px;
 }
 
 #robertmathis {
 	margin-top: 0;
 	background-color: #0000FF;
-	box-shadow: 10px 20px;
+	box-shadow: 10px 20px antiquewhite;
 	text-align: center;
 	color: white;
-        border: 2px solid white;
-        border-radius: 5px;
+        border: 4px solid white;
+        border-radius: 7px;
 }
 
 #marvinharrison {
 	margin-top: 0;
 	background-color: #0000FF;
-	box-shadow: 10px 20px;
+	box-shadow: 10px 20px antiquewhite;
 	text-align: center;
 	color: white;
-	border: 2px solid white;
-        border-radius: 5px;
+	border: 4px solid white;
+        border-radius: 7px;
 }
 
 #andrewluck {
 	margin-top: 0;
 	background-color: #0000FF;
-	box-shadow: 10px 20px;
+	box-shadow: 10px 20px antiquewhite;
 	text-align: center;
 	color: white;
-	border: 2px solid white;
-        border-radius: 5px;
+	border: 4px solid white;
+        border-radius: 7px;
 }
 
 #reggiemiller {
 	margin-top: 0;
 	background-color: #DAA520;
-	box-shadow: 10px 20px;
+	box-shadow: 10px 20px navy;
 	text-align: center;
-	border: 2px solid black;
-        border-radius: 5px;
+	border: 4px solid black;
+        border-radius: 7px;
 }
 
 #sachintendulkar {
 	margin-bottom: 5;
 	background-color: #1E90FF;
-	box-shadow: 10px 20px;
+	box-shadow: 10px 20px darkorange;
 	text-align: center;
-	border: 2px solid black;
-        border-radius: 5px;
+	border: 4px solid black;
+        border-radius: 7px;
 }
 
 nav ul {
