@@ -39,11 +39,27 @@ section {
 
 #peytonmanning {
 	margin-top: 5;
-	background-color: blue;
+	background-color: #00FFFF;
+}
+
+#robertmathis {
+	margin-top: 5;
+	background-color: #00FFFF;
+}
+
+#marvinharrison {
+	margin-top: 5;
+	background-color: #00FFFF;
+}
+
+#andrewluck {
+	margin-top: 5;
+	background-color: #00FFFF;
 }
 
 #sachintendulkar {
 	margin-bottom: 5;
+	background-color: #6495ED;
 }
 
 nav ul {
